@@ -42,7 +42,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 <h3> 
-  <a href="https://{your-demo-link.your-domain}">
+  <a href="https://florpistan-404error-challenge.netlify.app">
       Demo
   </a>
 </h3>
@@ -67,6 +67,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://instagram.com/florpistan)
-- GitHub [@your-username](https://github.com/florpistan)
-- Twitter [@your-twitter](https://twitter.com/flopi_es)
+- Website [ig](https://instagram.com/florpistan)
+- GitHub [@florpistan](https://github.com/florpistan)
+- Twitter [@flopi_es](https://twitter.com/flopi_es)
